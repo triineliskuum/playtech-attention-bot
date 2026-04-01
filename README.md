@@ -23,6 +23,7 @@ ASMR
 javac Main.java
 jar cfe bot.jar Main Main.class
 java -jar bot.jar 10000000
+```
 
 Notes
 - Designed to stay within strict time constraints (~40ms per decision)
